@@ -1,5 +1,7 @@
 # Lockdown Protocol - Estudo de Overlay UE5 DX11 + ImGui
-
+## IMPORTANTE!!!!
+Dentro do projeto tem uma pasta zipada com nome de SDK.ZIP é necessário extair essa pasta para a compilação do projeto
+---
 ## Sobre o Projeto
 
 Este projeto é um estudo educacional desenvolvido em **C++** com foco em entender como funcionam:
